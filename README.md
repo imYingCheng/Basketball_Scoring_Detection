@@ -351,7 +351,7 @@ conda install MySQLClient
 ```python
 python3 manage.py makemigrations
 python3 manage.py migrate
-#啟動surver
+#啟動server
 python3 manage.py runserver
 ```
 
